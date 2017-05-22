@@ -1,7 +1,4 @@
-# hello-world
-My first repository project on GitHub
-<html>
-<head> 
-<text> Hello World <text/>
-<head/>
-<html/>
+ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);
